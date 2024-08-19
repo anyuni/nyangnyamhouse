@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class NyangnyamBackApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(NyangnyamBackApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(NyangnyamBackApplication.class, args);
+    }
 }
